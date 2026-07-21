@@ -26,13 +26,8 @@ docker build
 
 docker run
 
-docker stop
-
-docker rm
-
 ## Screenshots
 
 - Docker installation
 - Running containers
-- Docker image
 - Browser output
